@@ -1,0 +1,224 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta property="og:site_name" content="강남성서침례교회 :: GNCHURCH">
+<meta property="og:type" content="article">
+<meta property="og:url" content="http://gnbaptist">
+<meta property="og:title" content="[강남성서침례교회 - 메인] 강남 성서 침례 교회">
+<meta property="og:description" content="하나님의 사랑과 구원의 소식을 전파하는 강남성서침례교회">
+<meta name="description" content="하나님의 사랑과 구원의 소식을 전파하는 강남성서침례교회">
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=2.0">
+<title>강남성서침례교회</title>
+<link rel="shortcut icon" type="image/x-icon" href="../../img/img_logo.png">
+<link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/earlyaccess/notosanskr.css">
+<link rel="stylesheet" type="text/css" href="../../css/index.css?v4">
+<link rel="stylesheet" type="text/css" href="../../css/contents.css">
+<link rel="stylesheet" type="text/css" href="../../css/reset.css">
+<link rel="stylesheet" type="text/css" href="../../css/font.css">
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.6/css/swiper.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.6/css/swiper.min.css">
+
+
+
+
+
+</head>
+<body>
+<div id="wrap" class="wrap">
+  <?php include $_SERVER["DOCUMENT_ROOT"]."/html/include/header.php" ?>
+  <div class="container">
+    <ul class="location">
+  		<li><a href="/" class="location_list">홈 </a></li>
+  		<li><a class="location_list">교회 소식</a></li>
+  		<li><a class="location_list">소식 알림</a></li>
+  	</ul>
+    <div class="content">
+      <div class="content_head">
+  			<h2 class="page_title">중보 기도</h2>
+        <p class="page_info">
+          하나님의 사랑과 구원의 소식을 전파하는
+          강남성서침례교회<br />
+          GangNam Bible Baptist Church !
+  			</p>
+  		</div>
+      <div class="content_box">
+        <div class="content_box_left">
+          <h3>교회 소식</h3>
+          <ul class="sub-menu">
+            <li><a href="sermon.html">소식 알림</a></li>
+            <li><a href="intercessory.html">중보기도</a></li>
+            <li class="on"><a href="sermon03.html">금주의 말씀</a></li>
+          </ul>
+        </div>
+        <div class="content_box_right">
+
+
+          <div class="txt_wrap">
+            <ul class="sermon_desc">
+              <li>
+                <span class="highlight">190511 - 강남성서침례교회 금주의 말씀</span>
+              </li>
+              <li>
+                [날짜]<span>2019.04.13</span>
+              </li>
+            </ul>
+            <div class="txt_script_wrap">
+              <p class="txt_script">
+                모든 육체는 풀과 같고 사람의 모든 영광은 풀의 꽃과 같으니라.
+                풀은 마르고 그것의 꽃은 떨어지되 오직 주의 말씀은 영원토록 지속되나니
+                <span class="source">베드로전서 1:24-25</span>
+              </p>
+            </div>
+          </div>
+
+          <div class="table_wrap">
+            <table class="wrsp_tbl">
+              <caption class="blind">칼럼, 간증, 큐티</caption>
+              <colgroup>
+                <col style="width: 80px">
+                <col style="width: auto;">
+                <col style="width: 200px;">
+              </colgroup>
+              <thead>
+                <tr>
+                  <th scope="col">번호</th>
+                  <th scope="col">제목</th>
+
+                  <th scope="col">날짜</th>
+                </tr>
+              </thead>
+              <tbody>
+                <tr>
+                  <td>15</td>
+                  <td><a href="#"><p class="title ellipsis on">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>14</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>13</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>12</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>11</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>10</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>9</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>8</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>7</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>6</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>5</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>4</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>3</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>2</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+                <tr>
+                  <td>1</td>
+                  <td><a href="#"><p class="title ellipsis">190511 - 강남성서침례교회 금주의 말씀</p></a></td>
+
+                  <td>2019.04.13</td>
+                </tr>
+              </tbody>
+            </table>
+            <ul class="pagination justify-content-center">
+              <li class="page-item disabled"><a href="" class="page-link"><i class="fas fa-angle-double-left"></i></a></li>
+              <li class="page-item disabled"><a href="" class="page-link"><i class="fas fa-angle-left"></i></a></li>
+              <li class="page-item active"><a href="" class="page-link">1</a></li>
+              <li class="page-item"><a href="" class="page-link">2</a></li>
+              <li class="page-item"><a href="" class="page-link"><i class="fas fa-angle-right"></i></a></li>
+              <li class="page-item"><a href="" class="page-link"><i class="fas fa-angle-double-right"></i></a></li>
+            </ul>
+            <ul class="search">
+              <li>
+                <select>
+                  <option value="title">제목</option>
+                  <option value="contents">본문</option>
+                  <option value="pastor">설교자</option>
+                </select>
+              </li>
+              <li>
+                <input type="text" required="required" label="검색어"/>
+                <button class="btn_search"><i class="fas fa-search"></i></button>
+              </li>
+            </ul>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+  <?php include $_SERVER["DOCUMENT_ROOT"]."/html/include/header.php" ?>
+  </div>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.6/js/swiper.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/4.4.6/js/swiper.min.js"></script>
+
+  <script src="../../js/index.js"></script>
+</body>
+
+</html>
