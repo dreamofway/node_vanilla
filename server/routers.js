@@ -12,11 +12,11 @@
 
 'use strict';
 
-const express = require('express');
-const path = require('path');
-const router = express.Router();
+var express = require('express');
+var path = require('path');
+var router = express.Router();
 
-const server_root = path.dirname( __dirname );
+var server_root = path.dirname( __dirname );
 
 router.use(function(req, res, next){    
     

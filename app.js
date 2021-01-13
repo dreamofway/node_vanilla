@@ -9,14 +9,13 @@
  * 
  * ---------------------------------------------------
 */
-'use strict';
 
-const express = require('express');
-const app = express();
-const formidableMiddleware = require('express-formidable');
+var express = require('express');
+var app = express();
+var formidableMiddleware = require('express-formidable');
 
 
-const routers = require('./server/routers');
+var routers = require('./server/routers');
 
 
 
